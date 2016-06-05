@@ -1,15 +1,15 @@
-layout_spectrum: 0.1837996633257717
-typography_spectrum: 0.8382430330384523
+layout_spectrum: 0.09635756746865809
+typography_spectrum: 0.1928515408653766
 color:
-  brandStrength: 0.5461976618971676
-  lightness: 0.006638155784457922
-  saturation: 0.8257252154871821
-  rhythmicContrast: 0.6272458245512098
+  brandStrength: 0.9421045747585595
+  lightness: 0.9879592673387378
+  saturation: 0.9175676943268627
+  rhythmicContrast: 0.8202311398927122
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
 name: palegreenfilm
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2063fe8-48d1-4212-83fc-1525c479fec3.png'
