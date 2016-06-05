@@ -1,19 +1,14 @@
-typography_spectrum: 0.8383458
+layout_spectrum: 0.1837996633257717
+typography_spectrum: 0.8382430330384523
 color:
-  saturation: 0.5655209
-  brandStrength: 0.7075363
-  lightness: 0
-  rhythmicContrast: 0.05760031
+  brandStrength: 0.5461976618971676
+  lightness: 0.006638155784457922
+  saturation: 0.8257252154871821
+  rhythmicContrast: 0.6272458245512098
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.4237379
-author:
-  name: Chad Tremblay
-  email: chad@palegreenstar.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a387f66-fa3c-409a-a4ac-6028c4c500d4.png'
-name: PaleGreenFilm
-title: 'film & photography'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: palegreenfilm
